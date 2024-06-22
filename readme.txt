@@ -16,3 +16,5 @@ npm install mysql cors express nodemon
 4. go to project folder => cd librarySystem => npm run dev
 
 5. open "localhost:5173/adminlogin" in browser to run the app
+
+Use Email: admin@gmail.com and password: 12345 to login
